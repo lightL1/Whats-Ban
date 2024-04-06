@@ -15,4 +15,4 @@ apt install python
 usage
 
 
-python light-bot.py
+python light-ban.py
